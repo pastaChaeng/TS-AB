@@ -8,3 +8,7 @@ This is a responsive web application built using React, Vite, and Spotify API to
 - View a list of Taylor Swift's albums
 - Click on an album to see its details and tracklist
 - Responsive design that adapts to different screen sizes
+
+## Dedication
+
+This project is dedicated to my swiftie sister Rhea 💜✨
