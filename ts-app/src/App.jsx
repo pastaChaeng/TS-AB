@@ -94,7 +94,7 @@ function App() {
     },
     {
       id: 'album5',
-      name: "1989 | [Taylor's Version]",
+      name: "1989",
       image: 'https://i.pinimg.com/236x/8a/72/55/8a72552b934f80fc990d45887cf71db7.jpg',
       tracks: [
         { id: 'track1', name: 'Welcome to New York', duration: '3:32' },
@@ -114,7 +114,7 @@ function App() {
     },
     {
       id: 'album6',
-      name: "Reputation | [Taylor's Version]",
+      name: "Reputation",
       image: 'https://i.pinimg.com/236x/02/e1/cc/02e1cc0ee882d879410c61a6621b2512.jpg',
       tracks: [
         { id: 'track1', name: '...Ready for It?', duration: '3:28' },
