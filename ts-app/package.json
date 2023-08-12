@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://pastaChaeng.github.io./TS-ab/",
+  "homepage": "https://pastaChaeng.github.io./TS-AB/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
