@@ -11,4 +11,4 @@ This is a responsive web application built using React, Vite, and Spotify API to
 
 ## Dedication
 
-This project is dedicated to my swiftie sister Rhea 💜✨
+This project is dedicated to my co-swifties 💜✨
